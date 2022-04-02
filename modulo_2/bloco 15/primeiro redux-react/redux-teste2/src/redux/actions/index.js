@@ -1,0 +1,1 @@
+export const changeText = (value) => ({ type: 'CHANGE_TEXT', value });
